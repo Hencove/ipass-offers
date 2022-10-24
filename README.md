@@ -1,3 +1,3 @@
 # ipass-offers
 
-Placeholder webiste for redirection from specific URLs only
+Placeholder website for redirection from specific URLs only
